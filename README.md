@@ -1,0 +1,2 @@
+# gostack11-front-end-com-reactjs
+Projeto do zero utilizando o Reactjs, esse projeto foi utilizado para entender os conceitos do React, esses conceitos são componentes, propriedades e estado, ao longo do desenvolvimento foi praticado as alternativas de exibir conteúdos. Nesse projeto o Babel e WebPack foram instalados e configurados manualmente para entender o papel de cada biblioteca e suas funcionalidades, utilizamos o Axios para comunicação com API Externa.
